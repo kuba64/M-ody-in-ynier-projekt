@@ -1,0 +1,1036 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 744.09448819 1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="newUI.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.12374369"
+     inkscape:cx="222.96482"
+     inkscape:cy="9.7669901"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#8895a8;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4557"
+       width="3072.4297"
+       height="2039.6733"
+       x="-683.90283"
+       y="400.65411"
+       ry="18.500099" />
+    <path
+       style="fill:#ffbd31;fill-opacity:1;stroke:#232827;stroke-width:11.51648521;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 1908.1832,1399.0056 c -10.22,0 -18.4473,8.2273 -18.4473,18.4472 l 0,728.3028 c 0,10.2199 8.2273,18.4472 18.4473,18.4472 l 287.6601,0 a 12.333524,12.333524 0 0 1 -0.3652,-2.9199 12.333524,12.333524 0 0 1 12.334,-12.334 12.333524,12.333524 0 0 1 12.3339,12.334 12.333524,12.333524 0 0 1 -0.3671,2.9199 l 26.707,0 c 10.2199,0 18.4473,-8.2273 18.4473,-18.4472 l 0,-728.3028 c 0,-10.2199 -8.2274,-18.4472 -18.4473,-18.4472 l -338.3027,0 z"
+       id="rect4158"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="E:\Learn programing\Assets\Grafika\NewUI\Label2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <g
+       id="g4419"
+       transform="translate(537.21552,1140.4481)"
+       inkscape:export-filename="E:\Learn programing\Assets\Grafika\NewUI\Button1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <g
+         id="g4214">
+        <ellipse
+           style="fill:#d84042;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="path4171"
+           cx="949.79791"
+           cy="244.74992"
+           rx="4.5494809"
+           ry="3.3426738" />
+        <path
+           style="fill:#d84042;fill-opacity:1;stroke:#000000;stroke-width:2.70324874;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 953.4375,169.67383 a 5.5513139,5.5513139 0 0 0 -5.54688,5.47851 l -26.82421,0 c -9.36,0 -16.89453,7.5365 -16.89453,16.89649 l 0,38.61719 c 0,9.35999 7.53453,16.89453 16.89453,16.89453 l 183.43559,0 c 9.3599,0 16.8945,-7.53454 16.8945,-16.89453 l 0,-38.61719 c 0,-9.35999 -7.5346,-16.89649 -16.8945,-16.89649 l -145.51567,0 a 5.5513139,5.5513139 0 0 0 -5.54883,-5.47851 z"
+           id="rect4160"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:#cf3131;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 1115.0371,224.28026 c -1.0606,-0.0621 -2.1574,0.0378 -3.2684,0.32637 -64.2248,16.68382 -130.28697,12.2175 -197.02481,0 -3.10317,-0.56812 -6.02052,0.14922 -8.52666,1.67839 l 0,4.47572 c 0,9.18351 7.39324,16.57672 16.57672,16.57672 l 179.97665,0 c 9.1835,0 16.5766,-7.39321 16.5766,-16.57672 l 0,-5.27869 c -1.35,-0.68335 -2.7949,-1.11287 -4.3101,-1.20179 z"
+           id="rect4165"
+           inkscape:connector-curvature="0" />
+        <ellipse
+           style="fill:#e35656;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="path4175"
+           cx="1100.1665"
+           cy="-176.35274"
+           rx="20.811487"
+           ry="14.189652"
+           transform="matrix(0.94482077,0.32758772,-0.32758772,0.94482077,0,0)" />
+        <ellipse
+           style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="path4179"
+           cx="1119.7913"
+           cy="212.85481"
+           rx="1.6213492"
+           ry="1.5360152" />
+        <ellipse
+           ry="1.9626859"
+           rx="1.6213492"
+           cy="246.73248"
+           cx="943.32001"
+           id="ellipse4181"
+           style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      </g>
+    </g>
+    <g
+       id="g4411"
+       transform="translate(558.68614,1275.2835)"
+       inkscape:export-filename="E:\Learn programing\Assets\Grafika\NewUI\Button2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <ellipse
+         style="fill:#d84042;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="ellipse4199"
+         cx="949.79791"
+         cy="333.32135"
+         rx="4.5494809"
+         ry="3.3426738" />
+      <path
+         id="rect4201"
+         d="m 1106.7285,255.9707 a 5.5513139,5.5513139 0 0 0 -5.5508,5.55274 5.5513139,5.5513139 0 0 0 0.461,2.20117 l -180.57229,0 c -9.36,0 -16.89453,7.53454 -16.89453,16.89453 l 0,38.61914 c 0,9.35999 7.53453,16.89453 16.89453,16.89453 l 183.43559,0 c 9.3599,0 16.8945,-7.53454 16.8945,-16.89453 l 0,-38.61914 c 0,-7.04273 -4.2676,-13.04781 -10.3672,-15.5918 a 5.5513139,5.5513139 0 0 0 1.25,-3.5039 5.5513139,5.5513139 0 0 0 -5.5508,-5.55274 z"
+         style="fill:#90d561;fill-opacity:1;stroke:#000000;stroke-width:2.70324874;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:#6cc44a;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 1115.0371,312.85169 c -1.0606,-0.0621 -2.1574,0.0378 -3.2684,0.32637 -64.2248,16.68382 -130.28697,12.2175 -197.02481,0 -3.10317,-0.56812 -6.02052,0.14922 -8.52666,1.67839 l 0,4.47572 c 0,9.18351 7.39324,16.57672 16.57672,16.57672 l 179.97665,0 c 9.1835,0 16.5766,-7.39321 16.5766,-16.57672 l 0,-5.27869 c -1.35,-0.68335 -2.7949,-1.11287 -4.3101,-1.20179 z"
+         id="path4203"
+         inkscape:connector-curvature="0" />
+      <ellipse
+         style="fill:#a8e671;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="ellipse4205"
+         cx="1129.1814"
+         cy="-92.66861"
+         rx="20.811487"
+         ry="14.189652"
+         transform="matrix(0.94482077,0.32758772,-0.32758772,0.94482077,0,0)" />
+      <ellipse
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="ellipse4207"
+         cx="1119.7913"
+         cy="301.42624"
+         rx="1.6213492"
+         ry="1.5360152" />
+      <ellipse
+         ry="1.9626859"
+         rx="1.6213492"
+         cy="335.30392"
+         cx="943.32001"
+         id="ellipse4209"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+    <g
+       id="g4403"
+       transform="translate(542.87033,1299.4677)"
+       inkscape:export-filename="E:\Learn programing\Assets\Grafika\NewUI\Button3.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <ellipse
+         ry="3.3426738"
+         rx="4.5494809"
+         cy="433.70282"
+         cx="951.2265"
+         id="ellipse4233"
+         style="fill:#d84042;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         id="rect4235"
+         d="m 922.49609,364.10547 c -9.35999,0 -16.89648,7.53649 -16.89648,16.89648 l 0,5.45899 a 5.5513139,5.5513139 0 0 0 -0.73633,-0.0566 5.5513139,5.5513139 0 0 0 -5.55078,5.55273 5.5513139,5.5513139 0 0 0 5.55078,5.55078 5.5513139,5.5513139 0 0 0 0.73633,-0.0547 l 0,22.16602 c 0,9.35999 7.53649,16.89453 16.89648,16.89453 l 183.43361,0 c 9.36,0 16.8965,-7.53454 16.8965,-16.89453 l 0,-38.61719 c 0,-9.35999 -7.5365,-16.89648 -16.8965,-16.89648 l -183.43361,0 z"
+         style="fill:#448cfc;fill-opacity:1;stroke:#000000;stroke-width:2.70324874;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4237"
+         d="m 1116.4657,413.23316 c -1.0606,-0.0621 -2.1574,0.0378 -3.2684,0.32637 -64.2248,16.68382 -130.287,12.2175 -197.02484,0 -3.10317,-0.56812 -6.02052,0.14922 -8.52666,1.67839 l 0,4.47572 c 0,9.18351 7.39324,16.57672 16.57672,16.57672 l 179.97668,0 c 9.1835,0 16.5766,-7.39321 16.5766,-16.57672 l 0,-5.27869 c -1.35,-0.68335 -2.7949,-1.11287 -4.3101,-1.20179 z"
+         style="fill:#3062ff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <ellipse
+         transform="matrix(0.94482077,0.32758772,-0.32758772,0.94482077,0,0)"
+         ry="14.189652"
+         rx="20.811487"
+         cy="1.7059029"
+         cx="1163.4149"
+         id="ellipse4239"
+         style="fill:#52a0fb;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <ellipse
+         ry="1.5360152"
+         rx="1.6213492"
+         cy="401.80771"
+         cx="1121.2198"
+         id="ellipse4241"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <ellipse
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="ellipse4243"
+         cx="944.7486"
+         cy="435.68539"
+         rx="1.6213492"
+         ry="1.9626859" />
+    </g>
+    <g
+       id="g4395"
+       transform="translate(569.76809,1444.3452)"
+       inkscape:export-filename="E:\Learn programing\Assets\Grafika\NewUI\Button5.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <ellipse
+         style="fill:#d84042;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="ellipse4249"
+         cx="954.25696"
+         cy="551.89069"
+         rx="4.5494809"
+         ry="3.3426738" />
+      <path
+         id="rect4251"
+         d="m 1119.0156,476.30859 a 5.5513139,5.5513139 0 0 0 -5.5508,5.55079 5.5513139,5.5513139 0 0 0 0.1114,1.08398 c -1.4678,-0.41365 -3.0116,-0.65039 -4.6153,-0.65039 l -183.43551,0 c -9.35999,0 -16.89453,7.53649 -16.89453,16.89648 l 0,16.80274 a 5.5513139,5.5513139 0 0 0 -1.74609,-0.28711 5.5513139,5.5513139 0 0 0 -5.55274,5.55078 5.5513139,5.5513139 0 0 0 5.55274,5.55078 5.5513139,5.5513139 0 0 0 1.74609,-0.28906 l 0,11.28906 c 0,9.35999 7.53454,16.8965 16.89453,16.89648 l 183.43551,0 c 9.36,0 16.8946,-7.53649 16.8946,-16.89648 l 0,-38.61719 c 0,-4.74294 -1.9398,-9.0133 -5.0664,-12.07617 a 5.5513139,5.5513139 0 0 0 3.7793,-5.2539 5.5513139,5.5513139 0 0 0 -5.5528,-5.55079 z"
+         style="fill:#c0c0c2;fill-opacity:1;stroke:#000000;stroke-width:2.70324874;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:#a4a4a5;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 1119.4962,531.42101 c -1.0606,-0.0621 -2.1574,0.0378 -3.2684,0.32637 -64.2248,16.68382 -130.28704,12.2175 -197.02488,0 -3.10317,-0.56812 -6.02052,0.14922 -8.52666,1.67839 l 0,4.47572 c 0,9.18351 7.39324,16.57672 16.57672,16.57672 l 179.97672,0 c 9.1835,0 16.5766,-7.39321 16.5766,-16.57672 l 0,-5.27869 c -1.35,-0.68335 -2.7949,-1.11287 -4.3101,-1.20179 z"
+         id="path4253"
+         inkscape:connector-curvature="0" />
+      <ellipse
+         style="fill:#d1d1d1;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="ellipse4255"
+         cx="1204.995"
+         cy="112.37949"
+         rx="20.811487"
+         ry="14.189652"
+         transform="matrix(0.94482077,0.32758772,-0.32758772,0.94482077,0,0)" />
+      <ellipse
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="ellipse4257"
+         cx="1124.2504"
+         cy="519.99554"
+         rx="1.6213492"
+         ry="1.5360152" />
+      <ellipse
+         ry="1.9626859"
+         rx="1.6213492"
+         cy="553.87323"
+         cx="947.77905"
+         id="ellipse4259"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+    <g
+       id="g4387"
+       transform="translate(571.44176,1185.182)"
+       inkscape:export-filename="E:\Learn programing\Assets\Grafika\NewUI\Button4.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <ellipse
+         ry="3.3426738"
+         rx="4.5494809"
+         cy="659.97699"
+         cx="954.25696"
+         id="ellipse4264"
+         style="fill:#d84042;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         id="rect4266"
+         d="m 1027.7832,582.81055 a 4.7873224,3.349208 51.492426 0 0 -2.6797,2.11914 4.7873224,3.349208 51.492426 0 0 2.5137,5.45117 l -102.09181,0 c -9.35999,0 -16.89453,7.53454 -16.89453,16.89453 l 0,38.61719 c 0,9.35999 7.53454,16.89648 16.89453,16.89648 l 183.43551,0 c 9.36,0 16.8946,-7.53649 16.8946,-16.89648 l 0,-38.61719 c 0,-9.35999 -7.5346,-16.89453 -16.8946,-16.89453 l -76.541,0 a 4.7873224,3.349208 51.492426 0 0 0.4824,-1.11914 4.7873224,3.349208 51.492426 0 0 -3.1582,-5.86524 4.7873224,3.349208 51.492426 0 0 -1.9609,-0.58593 z"
+         style="fill:#6581e9;fill-opacity:1;stroke:#000000;stroke-width:2.70324874;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4268"
+         d="m 1119.4962,639.50733 c -1.0606,-0.0621 -2.1574,0.0378 -3.2684,0.32637 -64.2248,16.68382 -130.28704,12.2175 -197.02488,0 -3.10317,-0.56812 -6.02052,0.14922 -8.52666,1.67839 l 0,4.47572 c 0,9.18351 7.39324,16.57672 16.57672,16.57672 l 179.97672,0 c 9.1835,0 16.5766,-7.39321 16.5766,-16.57672 l 0,-5.27869 c -1.35,-0.68335 -2.7949,-1.11287 -4.3101,-1.20179 z"
+         style="fill:#5166e2;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <ellipse
+         transform="matrix(0.94482077,0.32758772,-0.32758772,0.94482077,0,0)"
+         ry="14.189652"
+         rx="20.811487"
+         cy="214.50169"
+         cx="1240.4027"
+         id="ellipse4270"
+         style="fill:#8aa7fb;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <ellipse
+         ry="1.5360152"
+         rx="1.6213492"
+         cy="628.08185"
+         cx="1124.2504"
+         id="ellipse4272"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <ellipse
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="ellipse4274"
+         cx="947.77905"
+         cy="661.95953"
+         rx="1.6213492"
+         ry="1.9626859" />
+    </g>
+    <g
+       id="g4695"
+       inkscape:export-filename="E:\Learn programing\Assets\Grafika\NewUI\Button6.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       transform="translate(-72.857142,-235.71428)">
+      <g
+         transform="translate(549.52298,80.812204)"
+         id="g4428">
+        <g
+           id="g4379">
+          <ellipse
+             style="fill:#d84042;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             id="ellipse4341"
+             cx="954.25696"
+             cy="864.2627"
+             rx="4.5494809"
+             ry="3.3426738" />
+          <path
+             inkscape:connector-curvature="0"
+             id="rect4343"
+             d="m 989.54883,789.72266 a 4.9033833,3.0304577 0 0 0 -4.90235,3.03125 4.9033833,3.0304577 0 0 0 1.10352,1.91211 l -60.22461,0 c -9.35999,0 -16.89453,7.53453 -16.89453,16.89453 l 0,38.61914 c 0,9.35999 7.53454,16.89453 16.89453,16.89453 l 183.43551,0 c 9.36,0 16.8946,-7.53454 16.8946,-16.89453 l 0,-38.61914 c 0,-9.36 -7.5346,-16.89453 -16.8946,-16.89453 l -115.61129,0 a 4.9033833,3.0304577 0 0 0 1.10351,-1.91211 4.9033833,3.0304577 0 0 0 -4.90429,-3.03125 z"
+             style="fill:#febd32;fill-opacity:1;stroke:#000000;stroke-width:2.70324874;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+          <path
+             style="fill:#f1a401;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m 1119.4962,843.79304 c -1.0606,-0.0621 -2.1574,0.0378 -3.2684,0.32637 -64.2248,16.68382 -130.28704,12.2175 -197.02488,0 -3.10317,-0.56812 -6.02052,0.14922 -8.52666,1.67839 l 0,4.47572 c 0,9.18351 7.39324,16.57672 16.57672,16.57672 l 179.97672,0 c 9.1835,0 16.5766,-7.39321 16.5766,-16.57672 l 0,-5.27869 c -1.35,-0.68335 -2.7949,-1.11287 -4.3101,-1.20179 z"
+             id="path4345"
+             inkscape:connector-curvature="0" />
+          <ellipse
+             style="fill:#fecd63;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             id="ellipse4347"
+             cx="1307.3242"
+             cy="407.51508"
+             rx="20.811487"
+             ry="14.189652"
+             transform="matrix(0.94482077,0.32758772,-0.32758772,0.94482077,0,0)" />
+          <ellipse
+             style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             id="ellipse4349"
+             cx="1124.2504"
+             cy="832.36755"
+             rx="1.6213492"
+             ry="1.5360152" />
+          <ellipse
+             ry="1.9626859"
+             rx="1.6213492"
+             cy="866.24524"
+             cx="947.77905"
+             id="ellipse4351"
+             style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        </g>
+      </g>
+    </g>
+    <circle
+       r="0"
+       cy="551.37476"
+       cx="948.06409"
+       id="ellipse4353"
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <ellipse
+       style="fill:#d84042;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="ellipse4362"
+       cx="2106.6238"
+       cy="621.45789"
+       rx="4.5494809"
+       ry="3.3426738" />
+    <rect
+       style="fill:#d84042;fill-opacity:1;stroke:#000000;stroke-width:2.70324874;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4364"
+       width="217.22533"
+       height="72.40844"
+       x="2060.9973"
+       y="551.86096"
+       ry="16.895292" />
+    <path
+       style="fill:#cf3131;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 2271.8632,600.98818 c -1.0606,-0.062 -2.1574,0.038 -3.2684,0.3264 -64.2248,16.6838 -130.2871,12.2175 -197.0249,0 -3.1032,-0.5682 -6.0205,0.1492 -8.5267,1.6783 l 0,4.4758 c 0,9.1835 7.3933,16.5767 16.5768,16.5767 l 179.9767,0 c 9.1835,0 16.5766,-7.3932 16.5766,-16.5767 l 0,-5.2787 c -1.35,-0.6834 -2.7949,-1.1129 -4.3101,-1.2018 z"
+       id="path4366"
+       inkscape:connector-curvature="0" />
+    <ellipse
+       style="fill:#e35656;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="ellipse4368"
+       cx="2316.5647"
+       cy="-199.39325"
+       rx="20.811487"
+       ry="14.189652"
+       transform="matrix(0.94482077,0.32758772,-0.32758772,0.94482077,0,0)" />
+    <ellipse
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="ellipse4370"
+       cx="2276.6172"
+       cy="589.56268"
+       rx="1.6213492"
+       ry="1.5360152" />
+    <ellipse
+       ry="1.9626859"
+       rx="1.6213492"
+       cy="623.44043"
+       cx="2100.146"
+       id="ellipse4372"
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <ellipse
+       ry="3.0304577"
+       rx="4.9033833"
+       cy="549.94812"
+       cx="2141.9165"
+       id="ellipse4374"
+       style="fill:#5166e2;fill-opacity:1;stroke:#232826;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <g
+       id="g4691"
+       transform="translate(29.999998,1324.2857)"
+       inkscape:export-filename="E:\Learn programing\Assets\Grafika\NewUI\Label1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         id="rect4437"
+         d="m 115.42188,135.14453 c -10.21998,0 -18.447271,8.2273 -18.447271,18.44727 l 0,670.21093 c 0,10.21997 8.227291,18.44727 18.447271,18.44727 l 1107.22852,0 c 10.22,0 18.4473,-8.2273 18.4473,-18.44727 l 0,-670.21093 c 0,-10.21997 -8.2273,-18.44727 -18.4473,-18.44727 l -277.17384,0 a 9.5964489,9.5964489 0 0 1 -9.57031,9.08985 9.5964489,9.5964489 0 0 1 -9.57813,-9.08985 l -810.90624,0 z"
+         style="fill:#ffbd31;fill-opacity:1;stroke:#232827;stroke-width:10;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         inkscape:connector-curvature="0" />
+      <circle
+         r="6.7788019"
+         cy="684.40668"
+         cx="103.29554"
+         id="path4439"
+         style="fill:#232827;fill-opacity:1;stroke:#232827;stroke-width:7.06386518;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+    <g
+       id="g4496"
+       transform="translate(-42.265408,2185.1225)"
+       inkscape:export-filename="E:\Learn programing\Assets\Grafika\NewUI\Exit.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         id="path4473"
+         d="m 1229.3555,100.82812 a 32.42059,32.42059 0 0 0 -5.4336,0.4629 6.5659914,6.5659914 0 0 1 0.1308,1.27539 6.5659914,6.5659914 0 0 1 -6.5664,6.5664 6.5659914,6.5659914 0 0 1 -5.6191,-3.18164 32.42059,32.42059 0 0 0 -14.9317,27.29883 32.42059,32.42059 0 0 0 32.42,32.41992 32.42059,32.42059 0 0 0 32.4199,-32.41992 32.42059,32.42059 0 0 0 -32.4199,-32.42188 z"
+         style="fill:#ec6b37;fill-opacity:1;stroke:#000000;stroke-width:4.18403387;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         inkscape:connector-curvature="0" />
+      <path
+         sodipodi:nodetypes="sssss"
+         inkscape:connector-curvature="0"
+         id="path4488"
+         d="m 1253.2471,145.94786 c 0,4.14214 -14.0178,14.4448 -24.7676,14.4448 -10.7498,0 -24.7676,-11.43909 -24.7676,-15.58122 0,-4.14214 14.6491,4.62182 25.3989,4.62183 10.7499,-1e-5 24.1363,-7.62755 24.1363,-3.48541 z"
+         style="fill:#cc5c30;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <ellipse
+         transform="matrix(0.90740369,0.42026009,-0.42026009,0.90740369,0,0)"
+         ry="4.0406103"
+         rx="9.8489876"
+         cy="-418.23947"
+         cx="1174.7369"
+         id="path4491"
+         style="fill:#fb723a;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path4476"
+         d="m 1216.3705,148.80888 c 4.7189,-12.3106 11.8111,-23.23679 26.2295,-29.88932"
+         style="fill:none;fill-rule:evenodd;stroke:#fdfdfd;stroke-width:8.36806774;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#fdfdfd;stroke-width:8.36806774;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 1243.735,143.47118 c -12.3106,-4.71888 -23.2367,-11.81107 -29.8893,-26.22946"
+         id="path4478"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
+    </g>
+    <g
+       id="g4539"
+       transform="matrix(2.0583896,-0.04124614,0.04124614,2.0583896,2689.7007,982.00702)"
+       inkscape:export-filename="E:\Learn programing\Assets\Grafika\NewUI\InputText.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         style="fill:#000000;fill-opacity:0.19714284;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m -560.81515,18.267497 122.9871,0 c 6.52619,0 5.01117,-0.265021 5.01117,5.011163 l 0,18.801895 c 0,2.776184 -2.23498,5.011163 -5.01117,5.011163 l -122.9871,0 c -2.77618,0 -5.01116,0.443592 -5.01116,-5.011163 l 0,-18.801895 c 0,-2.776184 2.23498,-5.011163 5.01116,-5.011163 z"
+         id="path4537"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="scsssssss" />
+      <path
+         sodipodi:nodetypes="scsssssss"
+         inkscape:connector-curvature="0"
+         id="rect4532"
+         d="m -558.92483,20.114488 122.9871,0 c 6.52619,0 5.01117,-0.265021 5.01117,5.011163 l 0,18.801895 c 0,2.776184 -2.23498,5.011163 -5.01117,5.011163 l -122.9871,0 c -2.77618,0 -5.01116,0.443592 -5.01116,-5.011163 l 0,-18.801895 c 0,-2.776184 2.23498,-5.011163 5.01116,-5.011163 z"
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+    <g
+       id="g4571"
+       transform="translate(344.28572,2095.7143)"
+       inkscape:export-filename="E:\Learn programing\Assets\Grafika\NewUI\Pop2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         ry="18.500051"
+         y="217.89211"
+         x="143.99135"
+         height="102.40177"
+         width="307.20529"
+         id="rect4503"
+         style="fill:#fc662f;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         id="rect4546"
+         d="m 447.48828,297.57812 c -7.73979,-0.0266 -17.36125,0.52245 -28.32031,1.33594 a 8.586297,7.5761442 0 0 1 4.08594,6.43946 8.586297,7.5761442 0 0 1 -8.58594,7.57617 8.586297,7.5761442 0 0 1 -8.58594,-7.57617 8.586297,7.5761442 0 0 1 2.85742,-5.63086 c -30.26078,2.44923 -68.74733,6.12109 -108.56054,6.12109 -1.81733,0 -3.62407,-0.0162 -5.4375,-0.0234 a 8.75,7.5 0 0 1 0.41601,2.25586 8.75,7.5 0 0 1 -0.18164,1.51953 3.3928571,3.3928571 0 0 1 1.07422,-0.17968 3.3928571,3.3928571 0 0 1 3.39258,3.39257 3.3928571,3.3928571 0 0 1 -3.39258,3.39258 3.3928571,3.3928571 0 0 1 -3.35547,-2.91992 8.75,7.5 0 0 1 -6.28711,2.29492 8.75,7.5 0 0 1 -8.75,-7.5 8.75,7.5 0 0 1 0.4707,-2.40625 c -57.06678,-0.81623 -109.53906,-4.18525 -133.9746,-0.21484 1.69053,8.48292 9.14424,14.83789 18.13867,14.83789 l 270.20508,0 c 10.24902,0 18.5,-8.25097 18.5,-18.5 l 0,-4.15039 c -1.18683,-0.0372 -2.41887,-0.0599 -3.70899,-0.0645 z"
+         style="fill:#eb5f2c;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         inkscape:connector-curvature="0" />
+      <path
+         sodipodi:nodetypes="sssss"
+         inkscape:connector-curvature="0"
+         id="path4549"
+         d="m 439.61518,240.1236 c -0.84198,2.51267 -6.40357,-2.22339 -14.6028,-4.9709 -8.19923,-2.7475 -15.93123,-2.46603 -15.08925,-4.9787 0.84197,-2.51267 10.6967,-5.10021 18.89593,-2.35271 8.19924,2.7475 11.63809,9.78964 10.79612,12.30231 z"
+         style="fill:#ff7340;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+    <g
+       id="g4645"
+       transform="translate(-255.71428,1170)"
+       inkscape:export-filename="E:\Learn programing\Assets\Grafika\NewUI\Play.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4576"
+         d="M 194.77769,934.63129 A 107.12047,107.12047 0 0 0 87.656823,1041.7522 107.12047,107.12047 0 0 0 194.77769,1148.873 a 107.12047,107.12047 0 0 0 76.11546,-31.8147 14.633378,9.5435075 0 0 0 12.67735,4.8046 14.633378,9.5435075 0 0 0 14.63446,-9.543 14.633378,9.5435075 0 0 0 -14.63446,-9.5429 14.633378,9.5435075 0 0 0 -0.91971,0.023 107.12047,107.12047 0 0 0 19.24774,-61.0469 107.12047,107.12047 0 0 0 -19.58622,-61.5178 14.270222,14.270222 0 0 1 -13.51611,-14.2298 14.270222,14.270222 0 0 1 0.0735,-1.44948 107.12047,107.12047 0 0 0 -74.09212,-29.9238 z"
+         style="fill:#e1b748;fill-opacity:1;stroke:#000000;stroke-width:3.5795393;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <circle
+         r="98.143974"
+         style="fill:#fecb42;fill-opacity:1;stroke:none;stroke-width:0.8944428;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="circle4578"
+         cx="190.40495"
+         cy="1034.6859" />
+      <circle
+         cy="1026.6135"
+         cx="180.31429"
+         id="circle4580"
+         style="fill:#fec733;fill-opacity:1;stroke:none;stroke-width:0.8944428;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         r="84.017174" />
+      <circle
+         r="6.4215999"
+         cy="1125.2301"
+         cx="233.30728"
+         id="path4582"
+         style="fill:#fecb42;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <circle
+         style="fill:#fecb42;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="circle4584"
+         cx="240.91789"
+         cy="1127.3707"
+         r="2.1405332" />
+      <circle
+         r="3.627852"
+         cy="1068.6636"
+         cx="295.34082"
+         id="path4439-0"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.0035212;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <circle
+         r="4.8050852"
+         cy="1112.9719"
+         cx="120.22733"
+         id="path4439-0-8"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.0035212;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <circle
+         r="5.2927113"
+         cy="1064.5819"
+         cx="258.75598"
+         id="path4439-0-3"
+         style="fill:#fec733;fill-opacity:1;stroke:none;stroke-width:1.0035212;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <circle
+         r="3.627852"
+         cy="1048.1709"
+         cx="288.01001"
+         id="path4439-0-7"
+         style="fill:#e1b748;fill-opacity:1;stroke:none;stroke-width:1.0035212;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <g
+         transform="matrix(3.7671464,0,0,3.7671464,3320.391,2137.1047)"
+         id="g4641">
+        <path
+           id="path4639"
+           d="m -829.25762,-307.05935 a 16.59264,16.59264 0 0 0 -16.59298,16.59068 16.59264,16.59264 0 0 0 16.59298,16.59296 16.59264,16.59264 0 0 0 16.59297,-16.59296 16.59264,16.59264 0 0 0 -16.59297,-16.59068 z m -7.62914,5.55243 19.12222,11.03825 -19.12222,11.04054 5.35487,-11.56431 -5.35487,-10.51448 z"
+           style="opacity:0.98000004;fill:#000000;fill-opacity:0.23011367;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           inkscape:connector-curvature="0" />
+        <path
+           style="opacity:0.98000004;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m -830.14871,-307.6534 a 16.59264,16.59264 0 0 0 -16.59298,16.59068 16.59264,16.59264 0 0 0 16.59298,16.59296 16.59264,16.59264 0 0 0 16.59297,-16.59296 16.59264,16.59264 0 0 0 -16.59297,-16.59068 z m -7.62915,5.55243 19.12223,11.03825 -19.12223,11.04054 5.35487,-11.56432 -5.35487,-10.51447 z"
+           id="path4633"
+           inkscape:connector-curvature="0" />
+      </g>
+    </g>
+    <rect
+       style="opacity:0.98000004;fill:#2d2f2b;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4661"
+       width="616.29797"
+       height="53.300102"
+       x="-256.63843"
+       y="-204.93713"
+       ry="26.650051"
+       transform="matrix(0,1,-1,0,0,0)"
+       inkscape:export-filename="E:\Learn programing\Assets\Grafika\NewUI\Scroll.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       ry="21.798466"
+       y="-381.91309"
+       x="-59.321766"
+       height="43.596931"
+       width="164.84901"
+       id="rect4663"
+       style="opacity:0.98000004;fill:#faa922;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       transform="matrix(0,1,-1,0,0,0)"
+       inkscape:export-filename="E:\Learn programing\Assets\Grafika\NewUI\Scroll1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:1;fill:#2e2e2f;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4681"
+       width="422.74478"
+       height="374.86108"
+       x="-598.55823"
+       y="1638.9099"
+       ry="13.613286"
+       inkscape:export-filename="E:\Learn programing\Assets\Grafika\NewUI\Label3.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:1;fill:#ff6632;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -584.41574,1498.8023 c -4.21647,0 -7.61276,3.3926 -7.61276,7.6091 l 0,58.246 c 0,4.2165 3.39629,7.609 7.61276,7.609 l 383.03232,0 c 4.21645,0 7.61276,-3.3925 7.61276,-7.609 l 0,-58.246 c 0,-4.2165 -3.39631,-7.6091 -7.61276,-7.6091 l -383.03232,0 z m 27.34235,16.894 a 19.837538,19.837538 0 0 1 19.83807,19.8381 19.837538,19.837538 0 0 1 -19.83807,19.8381 19.837538,19.837538 0 0 1 -19.83807,-19.8381 19.837538,19.837538 0 0 1 19.83807,-19.8381 z"
+       id="rect4685"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="E:\Learn programing\Assets\Grafika\NewUI\Pop.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <circle
+       style="opacity:1;fill:#ff6632;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path4705"
+       cx="-64.285713"
+       cy="1610.9337"
+       r="40"
+       inkscape:export-filename="E:\Learn programing\Assets\Grafika\NewUI\Dot.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:1;fill:#2e2d2e;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4710"
+       width="200.01021"
+       height="12.121831"
+       x="-966.8421"
+       y="249.95235"
+       ry="4.8214302"
+       inkscape:export-filename="E:\Learn programing\Assets\Grafika\NewUI\2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:1;fill:#ffbd31;fill-opacity:1;stroke:#252423;stroke-width:4.69181061;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4781"
+       width="196.07945"
+       height="258.46994"
+       x="-806.64075"
+       y="-120.14307"
+       ry="10.615183"
+       inkscape:export-filename="E:\Learn programing\Assets\Grafika\NewUI\Box.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#ffc241;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -800.67204,128.22897 c 78.94698,-21.34199 176.34306,-45.543212 183.34268,-113.137082 l -0.50508,115.157392 z"
+       id="path4783"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="E:\Learn programing\Assets\Grafika\NewUI\Box.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <circle
+       style="opacity:1;fill:#ffbd31;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path4785"
+       cx="-656.3465"
+       cy="74.817154"
+       r="6.4397225"
+       inkscape:export-filename="E:\Learn programing\Assets\Grafika\NewUI\Box.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <circle
+       style="opacity:1;fill:#ffbd31;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path4785-2"
+       cx="-654.70496"
+       cy="83.782272"
+       r="6.4397225"
+       inkscape:export-filename="E:\Learn programing\Assets\Grafika\NewUI\Box.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="E:\Learn programing\Assets\Grafika\NewUI\Box2.png"
+       ry="10.615183"
+       y="-120.14307"
+       x="-559.49792"
+       height="258.46994"
+       width="196.07945"
+       id="rect4804"
+       style="opacity:1;fill:#abce39;fill-opacity:1;stroke:#252423;stroke-width:4.69181061;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="E:\Learn programing\Assets\Grafika\NewUI\Box2.png"
+       sodipodi:nodetypes="cccc"
+       inkscape:connector-curvature="0"
+       id="path4806"
+       d="M -553.52918,128.22897 C -474.5822,106.88698 -377.18612,82.685758 -370.1865,15.091888 l -0.50508,115.157392 z"
+       style="fill:#c5de4c;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <circle
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="E:\Learn programing\Assets\Grafika\NewUI\Box2.png"
+       r="6.4397225"
+       cy="74.817154"
+       cx="-409.20367"
+       id="circle4808"
+       style="opacity:1;fill:#abce39;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <circle
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="E:\Learn programing\Assets\Grafika\NewUI\Box2.png"
+       r="6.4397225"
+       cy="83.782272"
+       cx="-407.56213"
+       id="circle4810"
+       style="opacity:1;fill:#abce39;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <rect
+       style="opacity:1;fill:#a0acd5;fill-opacity:1;stroke:#252423;stroke-width:4.69181061;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4812"
+       width="196.07945"
+       height="258.46994"
+       x="-319.49792"
+       y="-120.14307"
+       ry="10.615183"
+       inkscape:export-filename="E:\Learn programing\Assets\Grafika\NewUI\Box3.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#bcc9e1;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M -313.52918,128.22897 C -234.5822,106.88698 -137.18612,82.685758 -130.1865,15.091888 l -0.50508,115.157392 z"
+       id="path4814"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="E:\Learn programing\Assets\Grafika\NewUI\Box3.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <circle
+       style="opacity:1;fill:#a0acd5;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="circle4816"
+       cx="-169.20367"
+       cy="74.817154"
+       r="6.4397225"
+       inkscape:export-filename="E:\Learn programing\Assets\Grafika\NewUI\Box3.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <circle
+       style="opacity:1;fill:#a0acd5;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="circle4818"
+       cx="-167.56213"
+       cy="83.782272"
+       r="6.4397225"
+       inkscape:export-filename="E:\Learn programing\Assets\Grafika\NewUI\Box3.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:1;fill:#fdbd35;fill-opacity:1;stroke:#252423;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -646.62472,-385.43303 a 50.507626,50.507626 0 0 0 -29.89258,9.86719 3.9233146,3.9233146 0 0 1 0.084,0.78515 3.9233146,3.9233146 0 0 1 -3.92383,3.92383 3.9233146,3.9233146 0 0 1 -1.4668,-0.28906 50.507626,50.507626 0 0 0 -15.30664,36.2207 50.507626,50.507626 0 0 0 50.50586,50.50781 50.507626,50.507626 0 0 0 50.50781,-50.50781 50.507626,50.507626 0 0 0 -50.50781,-50.50781 z"
+       id="path4820"
+       inkscape:export-filename="E:\Learn programing\Assets\Grafika\NewUI\Circle1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:connector-curvature="0" />
+    <circle
+       style="opacity:1;fill:#252423;fill-opacity:1;stroke:none;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path4822"
+       cx="-627.07373"
+       cy="-377.1178"
+       r="3.0304575"
+       inkscape:export-filename="E:\Learn programing\Assets\Grafika\NewUI\Circle1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#ffd345;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -680.21135,-305.12647 c 26.12292,-7.41907 61.19743,-17.0506 76.26651,-44.95178 7.2415,48.63949 -37.0384,73.89246 -76.26651,44.95178 z"
+       id="path4840"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="E:\Learn programing\Assets\Grafika\NewUI\Circle1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <circle
+       style="opacity:1;fill:#ffd345;fill-opacity:1;stroke:none;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path4844"
+       cx="-616.06665"
+       cy="-336.18866"
+       r="4.4157004"
+       inkscape:export-filename="E:\Learn programing\Assets\Grafika\NewUI\Circle1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <circle
+       style="opacity:1;fill:#fdbd35;fill-opacity:1;stroke:none;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path4854"
+       cx="-649.78046"
+       cy="-313.33395"
+       r="3.4092648"
+       inkscape:export-filename="E:\Learn programing\Assets\Grafika\NewUI\Circle1.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       id="path4856"
+       d="m -502.17291,-385.43303 a 50.507626,50.507626 0 0 0 -29.89258,9.86719 3.9233146,3.9233146 0 0 1 0.084,0.78515 3.9233146,3.9233146 0 0 1 -3.92383,3.92383 3.9233146,3.9233146 0 0 1 -1.4668,-0.28906 50.507626,50.507626 0 0 0 -15.30664,36.2207 50.507626,50.507626 0 0 0 50.50586,50.50781 50.507626,50.507626 0 0 0 50.50781,-50.50781 50.507626,50.507626 0 0 0 -50.50781,-50.50781 z"
+       style="opacity:1;fill:#6cc44a;fill-opacity:1;stroke:#252423;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="E:\Learn programing\Assets\Grafika\NewUI\Circle2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <circle
+       r="3.0304575"
+       cy="-377.1178"
+       cx="-482.62195"
+       id="circle4858"
+       style="opacity:1;fill:#252423;fill-opacity:1;stroke:none;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="E:\Learn programing\Assets\Grafika\NewUI\Circle2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:nodetypes="ccc"
+       inkscape:connector-curvature="0"
+       id="path4860"
+       d="m -535.75954,-305.12647 c 26.12292,-7.41907 61.19743,-17.0506 76.26651,-44.95178 7.2415,48.63949 -37.0384,73.89246 -76.26651,44.95178 z"
+       style="fill:#96d966;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="E:\Learn programing\Assets\Grafika\NewUI\Circle2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <circle
+       r="4.4157004"
+       cy="-336.18866"
+       cx="-471.61487"
+       id="circle4862"
+       style="opacity:1;fill:#96d966;fill-opacity:1;stroke:none;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="E:\Learn programing\Assets\Grafika\NewUI\Circle2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <circle
+       r="3.4092648"
+       cy="-313.33395"
+       cx="-505.32867"
+       id="circle4864"
+       style="opacity:1;fill:#6cc44a;fill-opacity:1;stroke:none;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="E:\Learn programing\Assets\Grafika\NewUI\Circle2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       inkscape:connector-curvature="0"
+       style="opacity:1;fill:#4f9cb0;fill-opacity:1;stroke:#252423;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -360.75155,-385.43303 a 50.507626,50.507626 0 0 0 -29.89258,9.86719 3.9233146,3.9233146 0 0 1 0.084,0.78515 3.9233146,3.9233146 0 0 1 -3.92383,3.92383 3.9233146,3.9233146 0 0 1 -1.4668,-0.28906 50.507626,50.507626 0 0 0 -15.30664,36.2207 50.507626,50.507626 0 0 0 50.50586,50.50781 50.507626,50.507626 0 0 0 50.50781,-50.50781 50.507626,50.507626 0 0 0 -50.50781,-50.50781 z"
+       id="path4866"
+       inkscape:export-filename="E:\Learn programing\Assets\Grafika\NewUI\Circle3.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <circle
+       style="opacity:1;fill:#252423;fill-opacity:1;stroke:none;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="circle4868"
+       cx="-341.20059"
+       cy="-377.1178"
+       r="3.0304575"
+       inkscape:export-filename="E:\Learn programing\Assets\Grafika\NewUI\Circle3.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#67b6c4;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m -394.33818,-305.12647 c 26.12292,-7.41907 61.19743,-17.0506 76.26651,-44.95178 7.2415,48.63949 -37.0384,73.89246 -76.26651,44.95178 z"
+       id="path4870"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="E:\Learn programing\Assets\Grafika\NewUI\Circle3.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <circle
+       style="opacity:1;fill:#67b6c4;fill-opacity:1;stroke:none;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="circle4872"
+       cx="-330.19351"
+       cy="-336.18866"
+       r="4.4157004"
+       inkscape:export-filename="E:\Learn programing\Assets\Grafika\NewUI\Circle3.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <circle
+       style="opacity:1;fill:#4f9cb0;fill-opacity:1;stroke:none;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="circle4874"
+       cx="-363.90732"
+       cy="-313.33395"
+       r="3.4092648"
+       inkscape:export-filename="E:\Learn programing\Assets\Grafika\NewUI\Circle3.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       id="path4876"
+       d="m -235.49264,-385.43303 a 50.507626,50.507626 0 0 0 -29.89258,9.86719 3.9233146,3.9233146 0 0 1 0.084,0.78515 3.9233146,3.9233146 0 0 1 -3.92383,3.92383 3.9233146,3.9233146 0 0 1 -1.4668,-0.28906 50.507626,50.507626 0 0 0 -15.30664,36.2207 50.507626,50.507626 0 0 0 50.50586,50.50781 50.507626,50.507626 0 0 0 50.50781,-50.50781 50.507626,50.507626 0 0 0 -50.50781,-50.50781 z"
+       style="opacity:1;fill:#5a5a5a;fill-opacity:1;stroke:#252423;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="E:\Learn programing\Assets\Grafika\NewUI\Circle4.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <circle
+       r="3.0304575"
+       cy="-377.1178"
+       cx="-215.94168"
+       id="circle4878"
+       style="opacity:1;fill:#252423;fill-opacity:1;stroke:none;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="E:\Learn programing\Assets\Grafika\NewUI\Circle4.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:nodetypes="ccc"
+       inkscape:connector-curvature="0"
+       id="path4880"
+       d="m -269.07927,-305.12647 c 26.12292,-7.41907 61.19743,-17.0506 76.26651,-44.95178 7.2415,48.63949 -37.0384,73.89246 -76.26651,44.95178 z"
+       style="fill:#747474;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-filename="E:\Learn programing\Assets\Grafika\NewUI\Circle4.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <circle
+       r="4.4157004"
+       cy="-336.18866"
+       cx="-204.9346"
+       id="circle4882"
+       style="opacity:1;fill:#747474;fill-opacity:1;stroke:none;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="E:\Learn programing\Assets\Grafika\NewUI\Circle4.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <circle
+       r="3.4092648"
+       cy="-313.33395"
+       cx="-238.64841"
+       id="circle4884"
+       style="opacity:1;fill:#5a5a5a;fill-opacity:1;stroke:none;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="E:\Learn programing\Assets\Grafika\NewUI\Circle4.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="E:\Learn programing\Assets\Grafika\NewUI\g123.png"
+       transform="scale(-1,-1)"
+       ry="13.792909"
+       y="414.6965"
+       x="136.42108"
+       height="27.585817"
+       width="679.15509"
+       id="rect4265"
+       style="opacity:0.98000004;fill:#2d2f2b;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <g
+       id="g4281"
+       transform="translate(-72.857142,-202.37925)"
+       inkscape:export-filename="E:\Learn programing\Assets\Grafika\NewUI\g4281.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="E:\Learn programing\Assets\Grafika\NewUI\Scroll.png"
+         transform="scale(-1,-1)"
+         ry="10.048757"
+         y="215.83606"
+         x="68.488922"
+         height="20.097513"
+         width="669.30518"
+         id="rect4267"
+         style="opacity:0.98000004;fill:#6cc44a;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         id="rect4278"
+         d="m -68.638672,-227.56641 c -222.524978,11.01315 -445.049248,5.29827 -667.574218,7.08985 1.78159,2.79089 4.89643,4.64062 8.4668,4.64062 l 649.208981,0 c 5.567011,0 10.048828,-4.48181 10.048828,-10.04883 0,-0.57465 -0.05862,-1.13384 -0.150391,-1.68164 z"
+         style="opacity:0.98000004;fill:#92d561;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       id="g4301"
+       inkscape:export-filename="E:\Learn programing\Assets\Grafika\NewUI\Notka.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         style="fill:#dfbf7a;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 36.634896,-756.11489 253.672384,-11.99854 c 13.46089,-0.63669 10.39476,-2.65502 9.22502,40.4693 l -4.16847,153.67508 c -0.61549,22.69084 -5.72085,41.17623 -11.44701,41.44713 l -253.67238,11.99853 c -5.726133,0.2709 -10.434342,4.11458 -9.224999,-40.46929 l 4.16847,-153.67514 c 0.615489,-22.69083 5.720854,-41.17621 11.446985,-41.44707 z"
+         id="path4289"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="scsssssss" />
+      <path
+         sodipodi:nodetypes="ccc"
+         inkscape:connector-curvature="0"
+         id="path4293"
+         d="m 28.571428,-536.2092 c 95.799622,-25.09757 206.320962,-55.68148 262.857142,-135 13.83321,182.41017 -54.31508,123.92366 -262.857142,135 z"
+         style="fill:#e2c689;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1" />
+      <circle
+         r="6.875"
+         cy="-585.94135"
+         cx="180.98215"
+         id="path4297"
+         style="opacity:1;fill:#e2c689;fill-opacity:1;stroke:none;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <circle
+         r="6.4285712"
+         cy="-606.56635"
+         cx="228.03572"
+         id="path4299"
+         style="opacity:1;fill:#dfbf7a;fill-opacity:1;stroke:none;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+    <g
+       id="g4321"
+       inkscape:export-filename="E:\Learn programing\Assets\Grafika\NewUI\Notka2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         sodipodi:nodetypes="scsssssss"
+         inkscape:connector-curvature="0"
+         id="path4309"
+         d="m 349.78218,-756.11489 253.67238,-11.99854 c 13.46089,-0.63669 10.39476,-2.65502 9.22502,40.4693 l -4.16847,153.67508 c -0.61549,22.69084 -5.72085,41.17623 -11.44701,41.44713 l -253.67238,11.99853 c -5.72613,0.2709 -10.43434,4.11458 -9.225,-40.46929 l 4.16847,-153.67514 c 0.61549,-22.69083 5.72085,-41.17621 11.44699,-41.44707 z"
+         style="fill:#54a1b3;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         style="fill:#45cafc;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 341.71871,-536.2092 c 95.79962,-25.09757 206.32096,-55.68148 262.85714,-135 13.83321,182.41017 -54.31508,123.92366 -262.85714,135 z"
+         id="path4311"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccc" />
+      <circle
+         style="opacity:1;fill:#45cafc;fill-opacity:1;stroke:none;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="circle4313"
+         cx="494.12943"
+         cy="-585.94135"
+         r="6.875" />
+      <circle
+         style="opacity:1;fill:#54a1b3;fill-opacity:1;stroke:none;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="circle4315"
+         cx="541.18298"
+         cy="-606.56635"
+         r="6.4285712" />
+    </g>
+  </g>
+</svg>
